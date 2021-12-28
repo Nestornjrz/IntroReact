@@ -7,7 +7,12 @@ import { CreateTodoButton } from "../CreateTodoButton";
 import { TodoContext } from "../TodoContext";
 
 function AppUI() {
-  const { error, loading, searchedTodos, completeTodo, deleteTodo } =
+  const { 
+    error, 
+    loading, 
+    searchedTodos, 
+    completeTodo, 
+    deleteTodo } =
     React.useContext(TodoContext);
 
   return (
