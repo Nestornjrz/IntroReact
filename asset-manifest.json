@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nestornjrz.github.io/IntroReact/static/css/main.4eb89f61.chunk.css",
+    "main.js": "/Nestornjrz.github.io/IntroReact/static/js/main.db06ebc7.chunk.js",
+    "main.js.map": "/Nestornjrz.github.io/IntroReact/static/js/main.db06ebc7.chunk.js.map",
+    "runtime-main.js": "/Nestornjrz.github.io/IntroReact/static/js/runtime-main.1719c3c6.js",
+    "runtime-main.js.map": "/Nestornjrz.github.io/IntroReact/static/js/runtime-main.1719c3c6.js.map",
+    "static/js/2.9a59739a.chunk.js": "/Nestornjrz.github.io/IntroReact/static/js/2.9a59739a.chunk.js",
+    "static/js/2.9a59739a.chunk.js.map": "/Nestornjrz.github.io/IntroReact/static/js/2.9a59739a.chunk.js.map",
+    "index.html": "/Nestornjrz.github.io/IntroReact/index.html",
+    "static/css/main.4eb89f61.chunk.css.map": "/Nestornjrz.github.io/IntroReact/static/css/main.4eb89f61.chunk.css.map",
+    "static/js/2.9a59739a.chunk.js.LICENSE.txt": "/Nestornjrz.github.io/IntroReact/static/js/2.9a59739a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1719c3c6.js",
+    "static/js/2.9a59739a.chunk.js",
+    "static/css/main.4eb89f61.chunk.css",
+    "static/js/main.db06ebc7.chunk.js"
+  ]
+}
